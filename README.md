@@ -14,3 +14,8 @@ All the weights are used from the pretrained pytorch models except for dense lay
 ## Data
 Download and unzip the open sourced CQ500 data from [here](http://headctstudy.qure.ai/dataset) and put it into /data
 
+This data includes
+```
+491 folders with multiple DICOM files
+reads.csv -- labels from 3 readers
+```
