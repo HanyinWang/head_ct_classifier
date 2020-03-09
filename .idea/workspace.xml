@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e18b6c4e-e09a-461b-8e6f-1971d1b62eed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="e5cdc4a9-0435-4ec9-8001-e7ba8de91c45" />
+  <component name="ProjectId" id="1WlOq4BSJMMdVpMe4yjygOKYYTU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run_pytorch" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://hwi3319@luolabwkstn03.fsm.northwestern.edu:22/opt/miniconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_pytorch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18b6c4e-e09a-461b-8e6f-1971d1b62eed" name="Default Changelist" comment="" />
+      <created>1579720902590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579720902590</updated>
+      <workItem from="1579720908855" duration="4793000" />
+      <workItem from="1580702447764" duration="20857000" />
+      <workItem from="1580849019206" duration="42775000" />
+      <workItem from="1581034957416" duration="1007000" />
+      <workItem from="1581035983862" duration="24459000" />
+      <workItem from="1581369030347" duration="4094000" />
+      <workItem from="1581723706666" duration="300000" />
+      <workItem from="1582428157289" duration="1129000" />
+      <workItem from="1582767420770" duration="3248000" />
+      <workItem from="1582838999086" duration="2077000" />
+      <workItem from="1582850876759" duration="573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="67" key="#Deployment" timestamp="1580849186563">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="-618" y="-1043" key="#Deployment/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1579722536463" />
+    <state x="480" y="67" key="#Deployment/0.23.1280.713@0.23.1280.713" timestamp="1580849186563" />
+    <state x="480" y="69" key="#Deployment/0.23.1280.715@0.23.1280.715" timestamp="1580771889544" />
+    <state x="-618" y="-1043" key="#Inspections" timestamp="1579723529568">
+      <screen x="-1936" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-618" y="-1043" key="#Inspections/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1579723529568" />
+    <state x="-1192" y="-1047" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580704422564">
+      <screen x="-1936" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-1192" y="-1047" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580704422564" />
+    <state x="-1736" y="-1219" width="2160" height="1017" key="DiffContextDialog" timestamp="1580772777887">
+      <screen x="-1936" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-1736" y="-1219" width="2160" height="1017" key="DiffContextDialog/0.23.1280.715/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580772777887" />
+    <state x="100" y="123" width="1080" height="513" key="DiffContextDialog/0.23.1280.715@0.23.1280.715" timestamp="1580772333691" />
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom" timestamp="1580847183938">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580721980161" />
+    <state width="1460" height="342" key="GridCell.Tab.0.bottom/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580707424437" />
+    <state width="1238" height="189" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1580847183938" />
+    <state width="1238" height="189" key="GridCell.Tab.0.center" timestamp="1580847183937">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580721980159" />
+    <state width="1460" height="342" key="GridCell.Tab.0.center/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580707424434" />
+    <state width="1238" height="189" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1580847183937" />
+    <state width="1238" height="189" key="GridCell.Tab.0.left" timestamp="1580847183934">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580721980157" />
+    <state width="1460" height="342" key="GridCell.Tab.0.left/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580707424433" />
+    <state width="1238" height="189" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1580847183934" />
+    <state width="1238" height="189" key="GridCell.Tab.0.right" timestamp="1580847183937">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580721980160" />
+    <state width="1460" height="342" key="GridCell.Tab.0.right/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580707424436" />
+    <state width="1238" height="189" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1580847183937" />
+    <state x="92" y="23" width="1188" height="713" key="SettingsEditor" timestamp="1580952944083">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="-709" y="-1070" key="SettingsEditor/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580704934455" />
+    <state x="92" y="23" width="1188" height="713" key="SettingsEditor/0.23.1280.713@0.23.1280.713" timestamp="1580952944083" />
+    <state x="100" y="123" width="1080" height="513" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580773970984">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="100" y="123" width="1080" height="513" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.713@0.23.1280.713" timestamp="1580773970984" />
+    <state x="-1196" y="-1043" width="1080" height="513" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.715/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1580772413856" />
+    <state x="100" y="123" width="1080" height="513" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.715@0.23.1280.715" timestamp="1580772333693" />
+    <state x="100" y="123" width="1080" height="513" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580770443742">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="100" y="123" width="1080" height="513" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.713@0.23.1280.713" timestamp="1580770443742" />
+    <state x="487" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1581369033211">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="-963" y="-876" key="com.intellij.ide.util.TipDialog/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1581034969120" />
+    <state x="487" y="295" key="com.intellij.ide.util.TipDialog/0.23.1280.713@0.23.1280.713" timestamp="1581369033211" />
+    <state x="813" y="247" width="401" height="525" key="ftp.server.browser" timestamp="1580849149551">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="-311" y="-972" width="401" height="525" key="ftp.server.browser/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1579722575948" />
+    <state x="813" y="247" key="ftp.server.browser/0.23.1280.713@0.23.1280.713" timestamp="1580849149551" />
+    <state x="-538" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1581294654245">
+      <screen x="-1936" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-538" y="-1092" width="670" height="676" key="search.everywhere.popup/0.23.1280.713/-1936.-1417.2560.1417/624.-1417.2560.1417@-1936.-1417.2560.1417" timestamp="1581294654245" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$run_pytorch.coverage" NAME="run_pytorch Coverage Results" MODIFIED="1582475624088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1579726305084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$data_cleaning.coverage" NAME="data cleaning Coverage Results" MODIFIED="1580702893220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hwi3319@luolabwkstn03.fsm.northwestern.edu:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="hwi3319@luolabwkstn03.fsm.northwestern.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hwi3319/COMP_SCI_496_SML/pycharm_code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
