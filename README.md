@@ -10,3 +10,6 @@ Input is a NIfTI file in nii.gz format containing one head CT scan. Output is pr
 
 ## Modified pretrained framework
 All the weights are used from the pretrained pytorch models except for dense layers. Fully connected layers are replaced with untrained fully connected layers of corresponding input and output size.
+
+## Data
+Downloading the open sourced CQ500 data from [here](http://headctstudy.qure.ai/dataset)
