@@ -33,6 +33,8 @@ Following steps are applied for pre-processing CQ500 data:
 Code for label data pre-processing for CQ500 data can be found [here](pre-processing)
 The data was labeled by three experience radiologists. When there is discrepancies between each radiologist, the majority vote would be taken as the final label.
 
+## CT c
+
 ## Training
 ### Pre-trained models
 10 pre-trained models are implemented in this project with all the fully connected layers removed and re-trained. The training code for each model can be found as following:
