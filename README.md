@@ -22,3 +22,7 @@ reads.csv -- labels from 3 readers
 
 ## Training
 
+## Deliverables
+* [Dockerfile](Dockerfile)
+* [Docker image](https://hub.docker.com/r/hanyinwang/head_ct_classifier?utm_source=docker4mac_2.2.0.3&utm_medium=repo_open&utm_campaign=referral)
+
