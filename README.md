@@ -65,8 +65,19 @@ All 10 models are also fine-tuned, the training code can be found a following:
 ### Sample training code
 - Clone this repo and enter the repo
 ```
-git clone 
-cd 
+git clone https://github.com/HanyinWang/head_ct_classifier.git
+cd head_ct_classifier
+```
+- Create a virtual environment and install requirements
+```
+conda create -n ct-env
+conda activate ct-env
+conda install --file requirements.txt
+```
+- Before running any of the training code, modified the *input_dir* and *output_dir* at the beginning of the code to where you put the processed data and where you want the output to be stored. Running fine tuning DenseNet169 as an example:
+```
+cd code
+python3 run_pretrained_densenet169_fine_tune.py
 ```
 
 ## To use a fine-tuned model
