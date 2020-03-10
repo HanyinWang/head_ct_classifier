@@ -9,19 +9,22 @@ import os
 from sklearn.metrics import roc_auc_score, confusion_matrix
 import pandas as pd
 import shutil
-# import torch.nn.functional as F
 
-# os.environ['CUDA_VISIBLE_DEVICES'] = '0'
-device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+#### change your input and output directory here ####
+input_dir = '/home/hwi3319/COMP_SCI_496_SML/'
+output_dir = '/home/hwi3319/COMP_SCI_496_SML/output/'
+#####################################################
 
-img_train = np.load('/home/hwi3319/COMP_SCI_496_SML/train/train_img.npy')
-lb_train = np.load('/home/hwi3319/COMP_SCI_496_SML/train/train_lb.npy')
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-img_test = np.load('/home/hwi3319/COMP_SCI_496_SML/test/test_img.npy')
-lb_test = np.load('/home/hwi3319/COMP_SCI_496_SML/test/test_lb.npy')
+img_train = np.load(input_dir + 'train/train_img.npy')
+lb_train = np.load(input_dir + 'train/train_lb.npy')
 
-img_val = np.load('/home/hwi3319/COMP_SCI_496_SML/validate/val_img.npy')
-lb_val = np.load('/home/hwi3319/COMP_SCI_496_SML/validate/val_lb.npy')
+img_test = np.load(input_dir + 'test/test_img.npy')
+lb_test = np.load(input_dir + 'test/test_lb.npy')
+
+img_val = np.load(input_dir + 'validate/val_img.npy')
+lb_val = np.load(input_dir + 'validate/val_lb.npy')
 
 transform = transforms.Compose([transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])])
 
@@ -190,8 +193,8 @@ for i in range(14):
     accuracy.append((np.sum((y_pred[:,i] == y_true[:,i]), axis=0))/len(img_test))
 
 print(roc, sensitivity, specificity, accuracy)
-os.chdir('/home/hwi3319/COMP_SCI_496_SML')
-pd.DataFrame(roc).to_csv('roc_alexnet_fine_tune.csv')
-pd.DataFrame(sensitivity).to_csv('sensitivity_alexnet_fine_tune.csv')
-pd.DataFrame(specificity).to_csv('specificity_alexnet_fine_tune.csv')
-pd.DataFrame(accuracy).to_csv('accuracy_alexnet_fine_tune.csv')
+
+pd.DataFrame(roc).to_csv(output_dir + 'roc_alexnet_fine_tune.csv')
+pd.DataFrame(sensitivity).to_csv(output_dir + 'sensitivity_alexnet_fine_tune.csv')
+pd.DataFrame(specificity).to_csv(output_dir + 'specificity_alexnet_fine_tune.csv')
+pd.DataFrame(accuracy).to_csv(output_dir + 'accuracy_alexnet_fine_tune.csv')
