@@ -1,5 +1,5 @@
 absl-py==0.8.1
-apex==0.1
+
 astor==0.8.0
 backcall==0.1.0
 certifi==2019.11.28
