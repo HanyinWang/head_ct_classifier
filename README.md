@@ -62,6 +62,13 @@ All 10 models are also fine-tuned, the training code can be found a following:
 * [DenseNet169](code/run_pretrained_densenet169_fine_tune.py)
 * [DenseNet201](code/run_pretrained_densenet201_fine_tune.py)
 
+### Sample training code
+- Clone this repo and enter the repo
+```
+git clone 
+cd 
+```
+
 ## To use a fine-tuned model
 Download the docker image
 ```
