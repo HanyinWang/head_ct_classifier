@@ -20,7 +20,23 @@ This data includes
 reads.csv -- labels from 3 readers
 ```
 
+## Head CT data pre-processing
+Code for head CT data pre-processing can be found [here](pre-processing)
+Following steps are applied for pre-processing CQ500 data:
+* From multiple files of each patient, choose one scan of best quality. Quality is defined by number of slices, slice thickness.
+* Convert chosen DICOM file to NIfTI files (.nii.gz).
+* Get the affine of each scan and reslice each slice in to 5 mm.
+* Generate brain window, bone window and subdural window according to corresponding luminance center and window width.
+* Select the 28 slices in the middle.
+
+## Label data pre-processing
+Code for label data pre-processing for CQ500 data can be found [here](pre-processing)
+The data was labeled by three experience radiologists. When there is discrepancies between each radiologist, the majority vote would be taken as the final label.
+
 ## Training
+### Pre-trained models
+### Fin
+### Pre-trained model
 
 ## Deliverables
 * [Dockerfile](Dockerfile)
