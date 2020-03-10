@@ -75,11 +75,11 @@ The model should be running at
 ```
 http://0.0.0.0:5000/
 ```
-Open a browser and type the url above. A sample processed CT scan can be found [here](sample_data). Download the precessed data and upload according to the direction. Wait a while....(like 5 mins), then the prediction result for 14 critical finding with corresponding score will pop up.
+Open a browser and type the url above. [A sample processed CT scan can be found here](sample_data). Download the pre-processed data and upload according to the direction. Wait a while....(like 5 mins), then the prediction result for 14 critical finding with corresponding score will pop up.
 
 ![](img/demo.gif)
 
 ## Deliverables
 * [Dockerfile](Dockerfile)
 * [Docker image](https://hub.docker.com/r/hanyinwang/head_ct_classifier?utm_source=docker4mac_2.2.0.3&utm_medium=repo_open&utm_campaign=referral)
-
+* [Fine tuned model](sample_fine)
