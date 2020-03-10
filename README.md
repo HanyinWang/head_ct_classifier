@@ -36,7 +36,13 @@ The data was labeled by three experience radiologists. When there is discrepanci
 ## Training
 ### Pre-trained models
 10 pre-trained models are implemented in this project with all the fully connected layers removed and re-trained. The training code for each model can be found as following:
+
+[VGG16](code/run_pretrained_vgg16.py)
 [AlexNet](code/run_pretrained_alexnet.py)
+[ResNet18](code/run_pretrained_resnet18.py)
+[ResNet101](code/run_pretrained_resnet101.py)
+[ResNet152](code/run_pretrained_resnet152.py)
+
 ### Fine-tuning codes
 
 ## Deliverables
