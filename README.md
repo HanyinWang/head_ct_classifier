@@ -72,7 +72,7 @@ cd head_ct_classifier
 ```
 conda create -n ct-env
 conda activate ct-env
-conda install --file requirements.txt
+pip install -r requirements.txt
 ```
 - Before running any of the training code, modified the *input_dir* and *output_dir* at the beginning of the code to where you put the processed data and where you want the output to be stored. Running fine tuning DenseNet169 as an example:
 ```
