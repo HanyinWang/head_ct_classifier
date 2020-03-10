@@ -16,7 +16,7 @@ Download and unzip the open sourced CQ500 data from [here](http://headctstudy.qu
 
 This data includes
 ```
-491 folders with multiple DICOM files
+491 folders with multiple DICOM files in each folder
 reads.csv -- labels from 3 readers
 ```
 
