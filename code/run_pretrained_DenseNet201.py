@@ -9,7 +9,7 @@ import os
 from sklearn.metrics import roc_auc_score, confusion_matrix
 import pandas as pd
 import shutil
-
+ 
 #### change your input and output directory here ####
 input_dir = '/home/hwi3319/COMP_SCI_496_SML/'
 output_dir = '/home/hwi3319/COMP_SCI_496_SML/output/'
