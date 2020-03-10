@@ -35,8 +35,9 @@ The data was labeled by three experience radiologists. When there is discrepanci
 
 ## Training
 ### Pre-trained models
-### Fin
-### Pre-trained model
+10 pre-trained models are implemented in this project with all the fully connected layers removed and re-trained. The training code for each model can be found as following:
+[AlexNet](code/run_pretrained_alexnet.py)
+### Fine-tuning codes
 
 ## Deliverables
 * [Dockerfile](Dockerfile)
