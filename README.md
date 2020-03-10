@@ -82,5 +82,5 @@ Open a browser and type the url above. [A sample processed CT scan can be found 
 ## Deliverables
 * [Dockerfile](Dockerfile)
 * [Docker image](https://hub.docker.com/r/hanyinwang/head_ct_classifier?utm_source=docker4mac_2.2.0.3&utm_medium=repo_open&utm_campaign=referral)
-* [Fine tuned model](sample_fine_tuned_model/densenet16948.ckpt)
+* [Fine tuned model](sample_fine_tuned_model)
 * [Sample processed head CT](sample_data)
