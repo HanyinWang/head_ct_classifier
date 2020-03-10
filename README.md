@@ -19,3 +19,6 @@ This data includes
 491 folders with multiple DICOM files
 reads.csv -- labels from 3 readers
 ```
+
+## Training
+
