@@ -49,6 +49,18 @@ The data was labeled by three experience radiologists. When there is discrepanci
 * [DenseNet201](code/run_pretrained_densenet201.py)
 
 ### Fine-tuning codes
+All 10 models are also fine-tuned, the training code can be found a following:
+
+* [VGG16](code/run_pretrained_vgg16_fine_tune.py)
+* [AlexNet](code/run_pretrained_alexnet_fine_tune.py)
+* [ResNet18](code/run_pretrained_resnet18_fine_tune.py)
+* [ResNet34](code/run_pretrained_resnet34_fine_tune.py)
+* [ResNet50](code/run_pretrained_resnet50_fine_tune.py)
+* [ResNet101](code/run_pretrained_resnet101_fine_tune.py)
+* [ResNet152](code/run_pretrained_resnet152_fine_tune.py)
+* [DenseNet161](code/run_pretrained_densenet161_fine_tune.py)
+* [DenseNet169](code/run_pretrained_densenet169_fine_tune.py)
+* [DenseNet201](code/run_pretrained_densenet201_fine_tune.py)
 
 ## Deliverables
 * [Dockerfile](Dockerfile)
