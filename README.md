@@ -77,7 +77,7 @@ http://0.0.0.0:5000/
 ```
 Open a browser and type the url above. A sample processed CT scan can be found [here](sample_data). Download the precessed data and upload according to the direction. Wait a while....(like 5 mins), then the prediction result for 14 critical finding with corresponding score will pop up.
 
-![](imgs/demo.gif)
+![](img/demo.gif)
 
 ## Deliverables
 * [Dockerfile](Dockerfile)
