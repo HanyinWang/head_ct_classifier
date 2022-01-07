@@ -5,7 +5,7 @@ backcall==0.1.0
 certifi==2019.11.28
 cffi==1.13.2
 cloudpickle==1.2.2
-cvxopt==1.2.0
+cvxopt==1.2.7
 cycler==0.10.0
 
 dask==2.10.1
